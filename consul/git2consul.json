@@ -14,8 +14,9 @@
   },
 
   "repos" : [{
-    "name" : "config",
+    "name" : "db-service",
     "url" : "https://github.com/Japca/config.git",
+    "source_root": "consul",
     "include_branch_name" : false,
     "ignore_file_extension" : true,
     "branches" : ["master"],
