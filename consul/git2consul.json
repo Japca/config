@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "logger" : {
-    "name" : "git2consul",
+    "name" : "git2consu",
     "streams" : [{
       "level": "trace",
       "stream": "process.stdout"
